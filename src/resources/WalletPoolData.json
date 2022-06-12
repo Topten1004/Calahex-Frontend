@@ -1,0 +1,91 @@
+
+{
+  "history" : [
+    {
+      "coin": "BTC",
+      "total": "0.000000",
+      "available": "0.000000",
+      "locked": "0.000000",
+      "value": "0.000000",
+      "action": "Transfer"
+    },
+    {
+      "coin": "ETH",
+      "total": "0.000000",
+      "available": "0.000000",
+      "locked": "0.000000",
+      "value": "0.000000",
+      "action": "Transfer"
+    },
+    {
+      "coin": "USDT",
+      "total": "0.000000",
+      "available": "0.000000",
+      "locked": "0.000000",
+      "value": "0.000000",
+      "action": "Transfer"
+    },
+    {
+      "coin": "EOS",
+      "total": "0.000000",
+      "available": "0.000000",
+      "locked": "0.000000",
+      "value": "0.000000",
+      "action": "Transfer"
+    },
+    {
+      "coin": "ADA",
+      "total": "0.000000",
+      "available": "0.000000",
+      "locked": "0.000000",
+      "value": "0.000000",
+      "action": "Transfer"
+    },
+    {
+      "coin": "ADADOWN",
+      "total": "0.000000",
+      "available": "0.000000",
+      "locked": "0.000000",
+      "value": "0.000000",
+      "action": "Transfer"
+    },
+    {
+      "coin": "ADAUP",
+      "total": "0.000000",
+      "available": "0.000000",
+      "locked": "0.000000",
+      "value": "0.000000",
+      "action": "Transfer"
+    },
+    {
+      "coin": "ADD",
+      "total": "0.000000",
+      "available": "0.000000",
+      "locked": "0.000000",
+      "value": "0.000000",
+      "action": "Transfer"
+    },
+    {
+      "coin": "ADX",
+      "total": "0.000000",
+      "available": "0.000000",
+      "locked": "0.000000",
+      "value": "0.000000",
+      "action": "Transfer"
+    }
+
+  ],
+  "coin": [{
+    "name": "Bitcoin",
+    "key": "BTC"
+  },
+    {
+      "name": "Etherium",
+      "key": "ETh"
+    }
+  ],
+  "btcaddress": ["123232", "sdfsdfdfdfdfe"],
+  "totalbalance": "0.00000000",
+  "orderbalance": "0.22222222",
+  "availbalance": "0.11111111"
+}

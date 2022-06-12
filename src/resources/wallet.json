@@ -1,0 +1,29 @@
+{
+  "wallet" : {
+    "poolAccount": {
+      "estimateBalance": "0.0000000",
+      "type": "ETH",
+      "balanceTable": {
+      }
+    },
+    "savingAccount": {
+      "saving": {
+        "type": "BTC",
+        "estimatedValue": "0.000000",
+        "totalInterestedEarn": "0.000000",
+        "todayInterestedEarn": "0.000000",
+        "savingTrialFundBounds": "0.00000"
+      }
+    },
+    "spotAccount": {
+      "withdraw": {
+        "fiat": {
+          "type": "BTC",
+          "totalBalance": "0.000000",
+          "inOrder": "0.00000",
+          "availableBalance": "0.00000"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+
+{
+  "history" : [
+    {
+      "coin": "BTC",
+      "total": "0.000000",
+      "available": "0.000000",
+      "locked": "0.000000",
+      "value": "0.000000",
+      "action": "Deposit  Withdraw   Trade"
+    },
+    {
+      "coin": "ETH",
+      "total": "0.000000",
+      "available": "0.000000",
+      "locked": "0.000000",
+      "value": "0.000000",
+      "action": "Deposit   Withdraw   Trade"
+    },
+    {
+      "coin": "USDT",
+      "total": "0.000000",
+      "available": "0.000000",
+      "locked": "0.000000",
+      "value": "0.000000",
+      "action": "Deposit   Withdraw   Trade"
+    },
+    {
+      "coin": "EOS",
+      "total": "0.000000",
+      "available": "0.000000",
+      "locked": "0.000000",
+      "value": "0.000000",
+      "action": "Deposit   Withdraw   Trade"
+    },
+    {
+      "coin": "ADA",
+      "total": "0.000000",
+      "available": "0.000000",
+      "locked": "0.000000",
+      "value": "0.000000",
+      "action": "Deposit   Withdraw   Trade"
+    },
+    {
+      "coin": "ADADOWN",
+      "total": "0.000000",
+      "available": "0.000000",
+      "locked": "0.000000",
+      "value": "0.000000",
+      "action": "Deposit   Withdraw   Trade"
+    },
+    {
+      "coin": "ADAUP",
+      "total": "0.000000",
+      "available": "0.000000",
+      "locked": "0.000000",
+      "value": "0.000000",
+      "action": "Deposit   Withdraw   Trade"
+    },
+    {
+      "coin": "ADD",
+      "total": "0.000000",
+      "available": "0.000000",
+      "locked": "0.000000",
+      "value": "0.000000",
+      "action": "Deposit   Withdraw   Trade"
+    },
+    {
+      "coin": "ADX",
+      "total": "0.000000",
+      "available": "0.000000",
+      "locked": "0.000000",
+      "value": "0.000000",
+      "action": "Deposit   Withdraw   Trade"
+    }
+
+  ],
+  "coin": [{
+    "name": "Bitcoin",
+    "key": "BTC"
+  },
+    {
+      "name": "Etherium",
+      "key": "ETh"
+    }
+  ],
+  "btcaddress": ["123232", "sdfsdfdfdfdfe"],
+  "totalbalance": "0.00000000",
+  "orderbalance": "0.22222222",
+  "availbalance": "0.11111111"
+}

@@ -1,0 +1,49 @@
+{
+  "history" : [
+    {
+      "coin": "",
+      "status": "",
+      "amount": "",
+      "date": "",
+      "information": ""
+    }
+  ],
+  "coin": [
+  {
+   "name": "Bitcoin",
+   "key": "BTC"
+  },
+  {
+     "name": "Ethereum",
+     "key": "ETH"
+  },
+  {
+    "name": "Tether",
+    "key": "USDT"
+  },
+  {
+    "name": "Swipe",
+    "key": "SXP"
+  },
+  {
+    "name": "Augur",
+    "key": "REPV2"
+  },
+  {
+    "name": "Yearn.finance",
+    "key": "YFI"
+  },
+  {
+    "name": "Uniswap",
+    "key": "UNI"
+  },
+  {
+    "name": "Chainlink",
+    "key": "LINK"
+  }
+  ],
+  "btcaddress": ["232", "sdfsdfdfdfdfe"],
+  "totalbalance": "0.000",
+  "orderbalance": "0.222",
+  "availbalance": "0.111"
+}

@@ -1,0 +1,50 @@
+{
+  "menus" : [
+    {
+      "name": "Accounts Overview",
+      "url": "/wallet/account-overview"
+    },
+    {
+      "name": "Exchange Account",
+      "children": [
+        {
+          "name": "Wallet",
+          "url": "/wallet/exchange-account/wallet"
+        },
+        {
+          "name": "Deposit",
+          "url": "/wallet/exchange-account/deposit"
+        },
+        {
+          "name": "Withdraw",
+          "url": "/wallet/exchange-account/withdraw"
+        }
+      ]
+    },
+    {
+      "name": "Margin Account",
+      "url": "/wallet/margin-account"
+    },
+    {
+      "name": "Futures Account",
+      "url": "/wallet/wallet-future"
+    },
+    {
+      "name": "Savings Account",
+      "url": "/wallet/saving-account"
+    },
+    {
+      "name": "Pool Account",
+      "url": "/wallet/pool-account"
+    },
+    {
+      "name": "Transfer Balances",
+      "url": "/wallet/transfer-balances"
+    },
+    {
+      "name": "Transaction History",
+      // "url": "/wallet/transaction-history"
+      "url": "/comming-soon"
+    }
+  ]
+}

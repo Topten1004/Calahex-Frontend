@@ -1,0 +1,25 @@
+{
+  "history" : [
+    {
+      "coin": "",
+      "status": "",
+      "amount": "",
+      "date": "",
+      "information": ""
+    }
+  ],
+  "coin": [
+    {
+      "name": "Ethereum",
+      "key": "ETH"
+    },
+    {
+      "name": "Tether",
+      "key": "USDT"
+    }
+  ],
+  "btcaddress": ["232", "sdfsdfdfdfdfe"],
+  "totalbalance": "0.000",
+  "orderbalance": "0.222",
+  "availbalance": "0.111"
+}
